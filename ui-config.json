@@ -1,6 +1,6 @@
 {
     "txt2img/Prompt/visible": true,
-    "txt2img/Prompt/value": "PROMPT,__raw__,((Korean beauty actresses and ,korean mature actress + gorgeous_beautiful_woman:1.53)),__ratio__,(((keep_same female face))),__sexy__,__face__",
+    "txt2img/Prompt/value": "PROMPT,__raw__,((Korean beauty actresses,korean mature actress + gorgeous_beautiful_woman:1.53)),__ratio__,(((keep_same female face))),__sexy__,__face__",
     "txt2img/Negative prompt/visible": true,
     "txt2img/Negative prompt/value": "__neg__",
     "txt2img/Interrupt/visible": true,
